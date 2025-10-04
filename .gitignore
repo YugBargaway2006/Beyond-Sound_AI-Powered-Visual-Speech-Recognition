@@ -2,3 +2,4 @@
 *.zip
 dataset/data 
 Plan_of_Action.txt
+.gitignore
