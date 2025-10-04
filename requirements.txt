@@ -1,0 +1,6 @@
+torch   # Allow us to build our neural network. Chosen PyTorch for this task.
+torchvision   # Torchvision library provides extra features and functions to process visual information
+opencv-python   # Library for Image and Video transformations
+matplotlib   # Helps visualize how our preprocessed videos and frames looks like
+imageio   # Creates gif from image frames, thus letting us know what's happening in multiple frames stacked together
+gdown   # Allow us to download dataset from google drive. Can also use kagglehub for datasets in kaggle
